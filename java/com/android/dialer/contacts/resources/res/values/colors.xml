@@ -47,5 +47,5 @@
   <color name="call_subject_divider">#d8d8d8</color>
 
   <!-- Text color for the SEND & CALL button on the call subject dialog. -->
-  <color name="call_subject_button">#00c853</color>
+  <color name="call_subject_button">#34a853</color>
 </resources>
